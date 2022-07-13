@@ -1,0 +1,167 @@
+T
+SCIENZA
+L
+leggi di Keplero
+1618
+L
+L
+legge di Boyle
+1662
+L
+L
+gravitazione classica
+1682
+L
+L
+dinamica classica
+1687
+L
+L
+legge poli magnetici
+1785
+L
+L
+legge di charles
+1787
+L
+L
+legge conservazione della massa
+1789
+L
+L
+legge di coulomb
+1791
+L
+L
+legge di proust
+1797
+L
+L
+legge di dalton
+1801
+L
+L
+legge di gay-lussac
+1808
+L
+L
+materia atomica
+1811
+L
+L
+legge di avogadro
+1811
+L
+L
+lg biot-savard
+1820
+lg di ampere
+L
+L
+lg monopolo magnetico
+1824
+legge poli magnetici
+lg biot-savard
+L
+L
+lg carnot
+1824
+L
+L
+lg di ampere
+1827
+L
+L
+lg di faraday
+1831
+L
+E
+osservazioni astronomiche
+1618
+E
+E
+esperimentidi boyle sui gas
+1662
+E
+E
+prima misurazione velocità luce
+1728
+E
+E
+primi esp magnetismo
+1785
+E
+E
+primi esp termodinamica
+1787
+E
+E
+esperimenti di lavoisier
+1789
+E
+E
+esperimento di coulomb
+1791
+E
+E
+esp proust
+1797
+E
+E
+misurazione costante gravitazionale
+1798
+E
+E
+oss induzione eb
+1819
+E
+E
+oss induzione be
+1821
+E
+M
+leggi di Keplero
+osservazioni astronomiche
+v
+M
+M
+legge di Boyle
+esperimentidi boyle sui gas
+v
+M
+M
+legge poli magnetici
+primi esp magnetismo
+v
+M
+M
+legge di charles
+primi esp termodinamica
+v
+M
+M
+legge conservazione della massa
+esperimenti di lavoisier
+v
+M
+M
+legge di coulomb
+esperimento di coulomb
+v
+M
+M
+legge di proust
+esp proust
+v
+M
+M
+lg biot-savard
+oss induzione eb
+v
+M
+M
+lg di faraday
+oss induzione be
+v
+M
+T
